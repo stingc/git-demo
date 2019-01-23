@@ -72,4 +72,10 @@
       </plugins>
     </pluginManagement>
   </build>
+
+	<scm>
+		<connection>scm:git:git@github.com:stingc/git-demo.git</connection>
+		<url>scm:git:git@github.com:stingc/git-demo.git</url>
+		<developerConnection>scm:git:git@github.com:stingc/git-demo.git</developerConnection>
+  </scm>  
 </project>
